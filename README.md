@@ -1,2 +1,2 @@
-# meu repositorio aula
- primeiro repositoria da aula
+# Olá, Mundo!
+ primeiro repositorio criado na aula.
